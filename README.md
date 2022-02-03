@@ -2,7 +2,7 @@
 Python
 
 ### Overview of Election Audit
-An election result is required to be collated and projected. Raw data of casted voted was given which contained the number of votes, election candidates and county where it was held. Parameters were inserted to ensure total number of votes were vested to the right candidates, percentages of candidates votes was calculated, the county with the highest number of votes was derived and, a projection of the winner's votes won and percentage from the total votes counted
+An election result is required to be collated and projected. Raw data of casted voted was given which contained the number of votes, election candidates and county where it was held. Parameters were inserted to ensure total number of votes were vested to the right candidates, percentages of candidates votes was calculated, the county with the highest number of votes was derived and, a projection of the winner's votes won and percentage from the total votes counted.
 
 ### Election Audit Results
 An election result is required to be collated and projected. Raw data of casted voted was given which contained the number of votes, election candidates and county where it was held. Parameters were inserted to ensure total number of votes were vested to the right candidates, percentages of candidates votes was calculated, the county with the highest number of votes was derived and, a projection of the winner's votes won and percentage from the total votes counted. Below are the factual results from the analysis
